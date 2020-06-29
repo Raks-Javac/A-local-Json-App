@@ -7,22 +7,7 @@ class json_class extends StatefulWidget {
 }
 
 class _json_class extends State<json_class> {
-// final String url = "https://swapi.co/api/starships";
-// List data;
 
-// Future<String> getSWData() async {
-  // var response = await http
-  // .get(Uri.encodeFull(url), headers: {"Accept": "application/json"});
-
-// setState(() {
-  // var reponse_Body = json.decode(response.body);
-//   data = reponse_Body[
-//     "results"
-//   ];
-// });
-// return "Sucess!";
-
-// }
 
   String bim;
 
@@ -223,22 +208,7 @@ class _json_class extends State<json_class> {
                       ],
                     );
                   });
-              // } else {
-              //   return Column(
-              //     mainAxisAlignment: MainAxisAlignment.center,
-              //     crossAxisAlignment: CrossAxisAlignment.center,
-              //     children: <Widget>[
-              //       Container(
-              //         width: 80,
-              //         height: 80,
-              //         color: Colors.black,
-              //         child: CircularProgressIndicator(
-              //           backgroundColor: Colors.red,
-              //         ),
-              //       )
-              //     ],
-              //   );
-              // }
+    
             }),
       ),
     ));
