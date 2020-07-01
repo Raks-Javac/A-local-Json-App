@@ -1,7 +1,12 @@
 # Local Json mini chat app
 
 
-## Getting Started
+![VID-20200701-WA0007](https://user-images.githubusercontent.com/56641192/86195141-1af95580-bb05-11ea-8f12-0b3d75ccca13.gif)
+
+
+
+## Getting Started with Flutter to create something like this
+
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
